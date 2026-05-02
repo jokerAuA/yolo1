@@ -1,0 +1,5 @@
+ultralytics==8.3.0
+sahi==0.11.19
+gradio==4.44.0
+Pillow==10.4.0
+onnxruntime==1.19.2

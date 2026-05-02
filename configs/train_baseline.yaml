@@ -1,0 +1,11 @@
+model: yolo11n.pt
+data: configs/visdrone.yaml
+epochs: 100
+imgsz: 640
+batch: 16
+workers: 4
+device: 0
+project: results
+name: baseline
+save: true
+plots: true

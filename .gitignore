@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pt
+*.onnx
+*.jpg
+*.png
+results/
+logs/
+checkpoints/
+data/VisDrone/
+.claude/
