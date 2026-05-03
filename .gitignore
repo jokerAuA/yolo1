@@ -4,8 +4,5 @@ __pycache__/
 *.onnx
 *.jpg
 *.png
-results/
-logs/
-checkpoints/
 data/VisDrone/
 .claude/
