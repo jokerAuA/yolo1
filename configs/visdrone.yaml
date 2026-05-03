@@ -1,7 +1,7 @@
-path: data/VisDrone
-train: VisDrone2019-DET-train/images
-val: VisDrone2019-DET-val/images
-test: VisDrone2019-DET-test-dev/images
+path: ../data/VisDrone
+train: images/train
+val: images/val
+test: images/test
 
 nc: 10
 names:
